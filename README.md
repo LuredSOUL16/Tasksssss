@@ -1,9 +1,15 @@
 # Java Console Calculator
 
-A simple console-based calculator written in Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division output.
+This is a simple console-based calculator built in Java. It allows users to perform basic arithmetic operations interactively through a menu-driven interface.
 
 ## Features
 
-- Interactive menu-driven interface
-- Input validation
-- Looping until user exits
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Exit option
+
+## Structure
+
+- `Calculator.java`: Contains the `main()` method and all operation methods (`add`, `subtract`, `multiply`, `divide`)
