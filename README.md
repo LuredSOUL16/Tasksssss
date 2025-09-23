@@ -1,4 +1,3 @@
-# Tasksssss
 # Java Console Calculator
 
 A simple console-based calculator written in Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division output.
